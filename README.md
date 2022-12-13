@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Tyree Webber</h1>
 <h3 align="center">A Full-Stack Web Developer from Edmonton, Alberta, Canada</h3>
 
-<h3 align="center">📫 Reach me at **webber.tyree@gmail.com**</h3>
+<h3 align="center">📫 Reach me at <u>webber.tyree@gmail.com</u></h3>
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
