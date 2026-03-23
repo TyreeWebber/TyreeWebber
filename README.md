@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hello! I'm Tyree from Edmonton, Alberta, Tyree<br><br>-  💻 I’m currently working as a Full-Stack Developer<br>- 📚 I'm currently learning OpenAI Agents / Assistants as well as various AWS services<br>- 🤷🏽‍♂️ In my free time I like to workout, play video games and try new food</p>
+<p align="center">Hello! I'm Tyree from Edmonton, Alberta, Tyree<br><br>-  💻 I’m currently working as a Full-Stack Developer<br>- 📚 I'm currently learning OpenAI Agents / Assistants as well as various AWS services<br>- 🤷🏽‍♂️ In my free time I like to workout, play video games and try new food</p>
 
 ###
 
